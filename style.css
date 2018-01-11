@@ -1,4 +1,8 @@
 
+h1 {
+  font-size: 2.7rem;
+  font-weight: bold;
+}
 
 .home-header {
   background-color: #fefefe;
@@ -49,6 +53,14 @@
 .btn-card:hover {
   color: #fefefe;
 }
+
+.contact {
+  color: #fefefe;
+  background-color: #9c89b8;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
 
 .red {
   color: #d05d5b;
