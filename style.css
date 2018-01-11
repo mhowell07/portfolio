@@ -2,7 +2,8 @@
 
 .home-header {
   background-color: #fefefe;
-  padding: 50px;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
 }
 
 .heading-sub {
@@ -17,7 +18,7 @@
 }
 
 .about-me {
-  background-color: #D05D5B;
+  background-color: #65a5f3;
   color: #fefefe;
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -37,4 +38,38 @@
 
 .card-img-top {
   border-bottom: 1px solid rgba(0,0,0,.125);
+}
+
+.btn-card {
+  color: #fefefe;
+  background-color: #d05d5b;
+  border-color: #d05d5b;
+}
+
+.btn-card:hover {
+  color: #fefefe;
+}
+
+.red {
+  color: #d05d5b;
+}
+
+.grey {
+  color: #e9ecef;
+}
+
+.blue {
+  color: #65a5f3;
+}
+
+.purple {
+  color: #9c89b8;
+}
+
+.mint {
+   color: #a9fbd7;
+}
+
+.white {
+  color: #fefefe;
 }
