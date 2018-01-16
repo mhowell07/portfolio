@@ -54,6 +54,12 @@ h1 {
   color: #fefefe;
 }
 
+.skills {
+  background-color: #fefefe;
+  /*padding-top: 5rem;*/
+  padding-bottom: 5rem;
+}
+
 .contact {
   color: #fefefe;
   background-color: #9c89b8;
