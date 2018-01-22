@@ -1,4 +1,14 @@
 
+a {
+  color: #65a5f3;
+}
+
+a:hover {
+  color: #65a5f3;
+  text-decoration: underline;
+  text-underline-position: under;
+}
+
 h1 {
   font-size: 2.7rem;
   font-weight: bold;
@@ -40,33 +50,56 @@ h1 {
   padding-bottom: 5rem;
 }
 
-.card-img-top {
-  border-bottom: 1px solid rgba(0,0,0,.125);
+.project {
+  padding: 6rem 0;
 }
 
-.btn-card {
-  color: #fefefe;
-  background-color: #d05d5b;
-  border-color: #d05d5b;
+.project img {
+  width: 100%;
 }
 
-.btn-card:hover {
-  color: #fefefe;
+.project__tools {
+  list-style: none;
+  padding-left: 0;
 }
+
+.project__tools li {
+  display: inline;
+  color: #fff;
+  text-shadow: 0 1px 0 rgba(0,0,0,.15);
+  line-height: 32px;
+  display: inline;
+  border-radius: 4px;
+  font-size: 12px;
+  background: #65a5f3;
+  padding: 4px 9px;
+}
+
+.divider {
+  border-top: 1px solid #e9ecef;
+  display: block;
+  margin: 0 auto;
+}
+
+
 
 .skills {
-  background-color: #fefefe;
-  /*padding-top: 5rem;*/
-  padding-bottom: 5rem;
-}
-
-.contact {
-  color: #fefefe;
-  background-color: #9c89b8;
+  background-color: #e9ecef;
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
 
+.contact {
+  /*color: #fefefe;*/
+  /*background-color: #9c89b8;*/
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+}
+
+footer {
+  background: #33343A;
+  padding: 2rem;
+}
 
 .red {
   color: #d05d5b;
