@@ -54,6 +54,16 @@ h1 {
   padding: 6rem 0;
 }
 
+.project a {
+  color: #212529;
+  text-decoration: none;
+  transition: color .2s;
+}
+
+.project a:hover {
+  color: #65a5f3;
+}
+
 .project img {
   width: 100%;
 }
@@ -79,6 +89,7 @@ h1 {
   border-top: 1px solid #e9ecef;
   display: block;
   margin: 0 auto;
+  width: 50%;
 }
 
 
