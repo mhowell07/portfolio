@@ -100,6 +100,17 @@ h1 {
   padding-bottom: 5rem;
 }
 
+.skill {
+  margin: 2rem 0;
+  text-align: center;
+}
+
+.skill__icon {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 1rem;
+}
+
 .contact {
   /*color: #fefefe;*/
   /*background-color: #9c89b8;*/
