@@ -66,6 +66,7 @@ h1 {
 
 .project img {
   width: 100%;
+  margin-bottom: 1rem;
 }
 
 .project__tools {
