@@ -93,8 +93,6 @@ h1 {
   width: 50%;
 }
 
-
-
 .skills {
   background-color: #e9ecef;
   padding-top: 5rem;
@@ -117,6 +115,17 @@ h1 {
   /*background-color: #9c89b8;*/
   padding-top: 5rem;
   padding-bottom: 5rem;
+}
+
+.contact button[type="submit"] {
+  border: 1px solid #65a5f3;
+  color: #65a5f3;
+  background: #fefefe;
+}
+
+.contact button[type="submit"]:hover {
+  color: #fefefe;
+  background: #65a5f3;
 }
 
 footer {
