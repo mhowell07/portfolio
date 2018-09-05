@@ -8,13 +8,20 @@ Version: 1.0
 Text Domain: matthowell
 */
 
+* {
+  --blue:         #65a5f3;
+  --gray:         #e9ecef;
+  --gray_border:  #ced4da;
+  --white:        #fefefe;
+  --black:        #212529;
+}
 
 a {
-  color: #65a5f3;
+  color: var(--blue);
 }
 
 a:hover {
-  color: #65a5f3;
+  color: var(--blue);
   text-decoration: underline;
   text-underline-position: under;
 }
@@ -24,11 +31,11 @@ h1 {
   font-weight: bold;
 }
 
-.home-header {
-  background-color: #fefefe;
+/*.home-header {
+  background-color: var(--white);
   padding-top: 5rem;
   padding-bottom: 5rem;
-}
+}*/
 
 .heading-sub {
   margin-bottom: 1rem;
@@ -42,8 +49,8 @@ h1 {
 }
 
 .about-me {
-  background-color: #65a5f3;
-  color: #fefefe;
+  background-color: var(--blue);
+  color: var(--white);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -51,11 +58,11 @@ h1 {
 .about-me a {
   text-decoration: underline;
   text-underline-position: under;
-  color: #fefefe;
+  color: var(--white);
 }
 
 .projects {
-  background-color: #fefefe;
+  background-color: var(--white);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -65,13 +72,13 @@ h1 {
 }
 
 .project a {
-  color: #212529;
+  color: var(--black);
   text-decoration: none;
   transition: color .2s;
 }
 
 .project a:hover {
-  color: #65a5f3;
+  color: var(--blue);
 }
 
 .project img {
@@ -91,20 +98,20 @@ h1 {
   display: inline-block;
   border-radius: 4px;
   font-size: 12px;
-  background: #65a5f3;
+  background: var(--blue);
   padding: 0px 9px;
   margin-bottom: 4px;
 }
 
 .divider {
-  border-top: 1px solid #e9ecef;
+  border-top: 1px solid var(--gray);
   display: block;
   margin: 0 auto;
   width: 50%;
 }
 
 .skills {
-  background-color: #e9ecef;
+  background-color: var(--gray);
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
@@ -121,21 +128,21 @@ h1 {
 }
 
 .contact {
-  /*color: #fefefe;*/
+  /*color: var(--white);*/
   /*background-color: #9c89b8;*/
   padding-top: 5rem;
   padding-bottom: 5rem;
 }
 
 .contact button[type="submit"] {
-  border: 1px solid #65a5f3;
-  color: #65a5f3;
-  background: #fefefe;
+  border: 1px solid var(--blue);
+  color: var(--blue);
+  background: var(--white);
 }
 
 .contact button[type="submit"]:hover {
-  color: #fefefe;
-  background: #65a5f3;
+  color: var(--white);
+  background: var(--blue);
 }
 
 footer {
@@ -148,11 +155,11 @@ footer {
 }
 
 .grey {
-  color: #e9ecef;
+  color: var(--gray);
 }
 
 .blue {
-  color: #65a5f3;
+  color: var(--blue);
 }
 
 .purple {
@@ -164,5 +171,22 @@ footer {
 }
 
 .white {
-  color: #fefefe;
+  color: var(--white);
+}
+
+/* V2 STYLES BEGIN HERE */
+
+.home-header {
+  background-image: url('/wp-content/uploads/2018/09/dark-bg.png');
+  background-size: cover;
+  background-position: center 30%;
+  color: var(--white);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.heading-primary {
+  font-size: 4rem;
 }
