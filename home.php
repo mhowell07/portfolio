@@ -454,26 +454,12 @@ Template Name: Home
       </div>
       <div class="row">
         <div class="col-sm-6 offset-sm-3">
-          <form action="https://formspree.io/matthew.howell07@gmail.com" method="POST">
-            <div class="form-group">
-              <label for="name">Name *</label>
-              <input type="text" class="form-control" id="name" placeholder="Who are you?" name="name" required>
-            </div>
-            <div class="form-group">
-              <label for="email">Email address *</label>
-              <input type="email" class="form-control" id="email" placeholder="Where should I contact you?" name="_replyto" required>
-            </div>
-            <div class="form-group">
-              <label for="message">Message *</label>
-              <textarea class="form-control" id="message" rows="5" placeholder="What's this about?" name="_message" required></textarea>
-            </div>
-            <input type="hidden" name="_next" value="portfolio/thanks.html" />
-            <input type="hidden" name="_subject" value="New submission on my porfolio!" />
-            <button type="submit" class="btn">Submit</button> <i>* Required Fields</i>
-          </form>
+          <?php echo do_shortcode("[contact-form-7 id='26' title='Contact Form']"); ?>
         </div>
       </div>
     </div>
   </div>
 </section>
 <?php get_footer() ?>
+
+
