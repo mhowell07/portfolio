@@ -13,7 +13,7 @@ Template Name: Home
         <div class="col-sm-6 offset-sm-3 text-center">
           <h1 class="heading-primary">Matt Howell</h1>
           <h2 class="heading-sub">Web Application Developer</h2>
-          <p class="heading-desc">I create and help to grow full web experiences for SMB's and startups.</p>
+          <p class="heading-desc">I help SMB's and startups to create and grow full web experiences.</p>
         </div>
       </div>
     </div>
