@@ -177,10 +177,7 @@ footer {
 /* V2 STYLES BEGIN HERE */
 
 .home-header {
-  background-image: url('/wp-content/uploads/2018/09/dark-bg.png');
-  background-size: cover;
-  background-position: center 30%;
-  color: var(--white);
+  color: var(--black);
   height: 100vh;
   display: flex;
   align-items: center;
