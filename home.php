@@ -454,7 +454,7 @@ Template Name: Home
       </div>
       <div class="row">
         <div class="col-sm-6 offset-sm-3">
-          <?php echo do_shortcode("[contact-form-7 id='26' title='Contact Form']"); ?>
+          <?php echo do_shortcode("[contact-form-7 id='8' title='Contact']"); ?>
         </div>
       </div>
     </div>
