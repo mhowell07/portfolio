@@ -42,7 +42,7 @@ Template Name: Home
       </div>
       <div class="row project">
         <div class="col-sm-12 col-md-6 text-center">
-            <img src="/wp-content/themes/matt-howell/images/mortgagesusa-responsive.png" alt="Mortgages USA">
+            <img src="/wp-content/themes/mh/images/mortgagesusa-responsive.png" alt="Mortgages USA">
         </div>
         <div class="col-sm-12 col-md-6 align-self-center">
           <h4 class="card-text biz-name"><a href="https://mortgagesusa.com/" rel="no-follow">Mortgages USA</a></h4>
@@ -57,10 +57,10 @@ Template Name: Home
           </ul>
         </div>
       </div>
-      <img src="/wp-content/themes/matt-howell/images/divider.png" class="divider">
+      <img src="/wp-content/themes/mh/images/divider.png" class="divider">
       <div class="row project">
         <div class="col-sm-12 col-md-6 order-md-last text-center">
-            <img src="/wp-content/themes/matt-howell/images/jetcapital-responsive.png" alt="Jet Capital">
+            <img src="/wp-content/themes/mh/images/jetcapital-responsive.png" alt="Jet Capital">
         </div>
         <div class="col-sm-12 col-md-6 order-md-first align-self-center">
           <h4 class="card-text biz-name"><a href="http://jetcapital.com/" rel="no-follow">Jet Capital</a></h4>
@@ -75,10 +75,10 @@ Template Name: Home
           </ul>
         </div>
       </div>
-      <img src="/wp-content/themes/matt-howell/images/divider.png" class="divider">
+      <img src="/wp-content/themes/mh/images/divider.png" class="divider">
       <div class="row project">
         <div class="col-sm-12 col-md-6 text-center">
-            <img src="/wp-content/themes/matt-howell/images/talentinsights-responsive.png" alt="Talent Insights">
+            <img src="/wp-content/themes/mh/images/talentinsights-responsive.png" alt="Talent Insights">
         </div>
         <div class="col-sm-12 col-md-6 align-self-center">
           <h4 class="card-text biz-name"><a href="https://www.talentinsights.com/" rel="no-follow">Talent Insights</a></h4>
@@ -101,11 +101,11 @@ Template Name: Home
           </ul>
         </div>
       </div>
-      <img src="/wp-content/themes/matt-howell/images/divider.png" class="divider">
+      <img src="/wp-content/themes/mh/images/divider.png" class="divider">
       
       <div class="row project">
         <div class="col-sm-12 col-md-6 order-md-last text-center">
-            <img src="/wp-content/themes/matt-howell/images/petassure-responsive.png" alt="Petassure">
+            <img src="/wp-content/themes/mh/images/petassure-responsive.png" alt="Petassure">
         </div>
         <div class="col-sm-12 col-md-6 order-md-first align-self-center">
           <h4 class="card-text biz-name"><a href="https://www.petassure.com/" rel="no-follow">Petassure</a></h4>
@@ -120,10 +120,10 @@ Template Name: Home
           </ul>
         </div>
       </div>
-      <img src="/wp-content/themes/matt-howell/images/divider.png" class="divider">
+      <img src="/wp-content/themes/mh/images/divider.png" class="divider">
       <div class="row project">
         <div class="col-sm-12 col-md-6">
-          <img src="/wp-content/themes/matt-howell/images/instantlyageless-responsive.png" alt="Instantly Agess">
+          <img src="/wp-content/themes/mh/images/instantlyageless-responsive.png" alt="Instantly Agess">
         </div>
         <div class="col-sm-12 col-md-6 align-self-center">
             <h4 class="card-text biz-name"><a href="https://instantlyageless.com/" rel="no-follow">Instantly Ageless</a></h4>
@@ -138,10 +138,10 @@ Template Name: Home
         </div>
         
       </div>
-      <img src="/wp-content/themes/matt-howell/images/divider.png" class="divider">
+      <img src="/wp-content/themes/mh/images/divider.png" class="divider">
       <div class="row project">
         <div class="col-sm-12 col-md-6 order-md-last text-center">
-            <img src="/wp-content/themes/matt-howell/images/1dental-responsive.png" alt="1dental">
+            <img src="/wp-content/themes/mh/images/1dental-responsive.png" alt="1dental">
         </div>
         <div class="col-sm-12 col-md-6 order-md-first align-self-center">
           <h4 class="card-text biz-name"><a href="https://www.1dental.com/" rel="no-follow">1dental</a></h4>
@@ -158,10 +158,10 @@ Template Name: Home
         </div>
         
       </div>
-      <img src="/wp-content/themes/matt-howell/images/divider.png" class="divider">
+      <img src="/wp-content/themes/mh/images/divider.png" class="divider">
       <div class="row project">
         <div class="col-sm-12 col-md-6 text-center">
-          <img src="/wp-content/themes/matt-howell/images/qualbe-responsive.png" alt="Qualbe">
+          <img src="/wp-content/themes/mh/images/qualbe-responsive.png" alt="Qualbe">
         </div>
         <div class="col-sm-12 col-md-6 align-self-center">
           <h4 class="card-text biz-name"><a href="https://qualbe.com/" rel="no-follow">Qualbe</a></h4>
@@ -188,255 +188,255 @@ Template Name: Home
       </div>
       <div class="row">
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/algolia.svg" class="skill__icon" alt="Algolia">
+          <img src="/wp-content/themes/mh/images/icons/algolia.svg" class="skill__icon" alt="Algolia">
           <p class="">Algolia</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/angular-icon.svg" class="skill__icon" alt="Angular">
+          <img src="/wp-content/themes/mh/images/icons/angular-icon.svg" class="skill__icon" alt="Angular">
           <p class="">Angular</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/apache.svg" class="skill__icon" alt="Apache">
+          <img src="/wp-content/themes/mh/images/icons/apache.svg" class="skill__icon" alt="Apache">
           <p class="">Apache</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/aws.svg" class="skill__icon" alt="AWS">
+          <img src="/wp-content/themes/mh/images/icons/aws.svg" class="skill__icon" alt="AWS">
           <p class="">AWS</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/bash.svg" class="skill__icon" alt="Bash">
+          <img src="/wp-content/themes/mh/images/icons/bash.svg" class="skill__icon" alt="Bash">
           <p class="">Bash</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/bem.svg" class="skill__icon" alt="Bem">
+          <img src="/wp-content/themes/mh/images/icons/bem.svg" class="skill__icon" alt="Bem">
           <p class="">Bem</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/bitbucket.svg" class="skill__icon" alt="Bitbucket">
+          <img src="/wp-content/themes/mh/images/icons/bitbucket.svg" class="skill__icon" alt="Bitbucket">
           <p class="">Bitbucket</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/bootstrap.svg" class="skill__icon" alt="Bootstrap">
+          <img src="/wp-content/themes/mh/images/icons/bootstrap.svg" class="skill__icon" alt="Bootstrap">
           <p class="">Bootstrap</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/bower.svg" class="skill__icon" alt="Bower">
+          <img src="/wp-content/themes/mh/images/icons/bower.svg" class="skill__icon" alt="Bower">
           <p class="">Bower</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/browserify-icon.svg" class="skill__icon" alt="Browserify">
+          <img src="/wp-content/themes/mh/images/icons/browserify-icon.svg" class="skill__icon" alt="Browserify">
           <p class="">Browserify</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/browserstack.svg" class="skill__icon" alt="Browserstack">
+          <img src="/wp-content/themes/mh/images/icons/browserstack.svg" class="skill__icon" alt="Browserstack">
           <p class="">Browserstack</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/compass.svg" class="skill__icon" alt="Compass">
+          <img src="/wp-content/themes/mh/images/icons/compass.svg" class="skill__icon" alt="Compass">
           <p class="">Compass</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/composer.svg" class="skill__icon" alt="Composer">
+          <img src="/wp-content/themes/mh/images/icons/composer.svg" class="skill__icon" alt="Composer">
           <p class="">Composer</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/cpanel.svg" class="skill__icon" alt="Cpanel">
+          <img src="/wp-content/themes/mh/images/icons/cpanel.svg" class="skill__icon" alt="Cpanel">
           <p class="">Cpanel</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/craft.svg" class="skill__icon" alt="Craft CMS">
+          <img src="/wp-content/themes/mh/images/icons/craft.svg" class="skill__icon" alt="Craft CMS">
           <p class="">Craft CMS</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/css-3.svg" class="skill__icon" alt="CSS3">
+          <img src="/wp-content/themes/mh/images/icons/css-3.svg" class="skill__icon" alt="CSS3">
           <p class="">CSS3</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/django.svg" class="skill__icon" alt="Django">
+          <img src="/wp-content/themes/mh/images/icons/django.svg" class="skill__icon" alt="Django">
           <p class="">Django</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/es6.svg" class="skill__icon" alt="ES6">
+          <img src="/wp-content/themes/mh/images/icons/es6.svg" class="skill__icon" alt="ES6">
           <p class="">ES6</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/express.svg" class="skill__icon" alt="Express">
+          <img src="/wp-content/themes/mh/images/icons/express.svg" class="skill__icon" alt="Express">
           <p class="">Express</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/foundation.svg" class="skill__icon" alt="Foundation">
+          <img src="/wp-content/themes/mh/images/icons/foundation.svg" class="skill__icon" alt="Foundation">
           <p class="">Foundation</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/ghost.svg" class="skill__icon" alt="Ghost">
+          <img src="/wp-content/themes/mh/images/icons/ghost.svg" class="skill__icon" alt="Ghost">
           <p class="">Ghost</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/github-icon.svg" class="skill__icon" alt="Github">
+          <img src="/wp-content/themes/mh/images/icons/github-icon.svg" class="skill__icon" alt="Github">
           <p class="">Github</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/google-cloud.svg" class="skill__icon" alt="Google Cloud">
+          <img src="/wp-content/themes/mh/images/icons/google-cloud.svg" class="skill__icon" alt="Google Cloud">
           <p class="">Google Cloud</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/gravatar.svg" class="skill__icon" alt="Gravatar">
+          <img src="/wp-content/themes/mh/images/icons/gravatar.svg" class="skill__icon" alt="Gravatar">
           <p class="">Gravatar</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/grunt.svg" class="skill__icon" alt="Grunt">
+          <img src="/wp-content/themes/mh/images/icons/grunt.svg" class="skill__icon" alt="Grunt">
           <p class="">Grunt</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/gulp.svg" class="skill__icon" alt="Gulp">
+          <img src="/wp-content/themes/mh/images/icons/gulp.svg" class="skill__icon" alt="Gulp">
           <p class="">Gulp</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/hostgator.svg" class="skill__icon" alt="Hostgator">
+          <img src="/wp-content/themes/mh/images/icons/hostgator.svg" class="skill__icon" alt="Hostgator">
           <p class="">Hostgator</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/html-5.svg" class="skill__icon" alt="HTML5">
+          <img src="/wp-content/themes/mh/images/icons/html-5.svg" class="skill__icon" alt="HTML5">
           <p class="">HTML5</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/javascript.svg" class="skill__icon" alt="Javascript">
+          <img src="/wp-content/themes/mh/images/icons/javascript.svg" class="skill__icon" alt="Javascript">
           <p class="">Javascript</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/jira.svg" class="skill__icon" alt="Jira">
+          <img src="/wp-content/themes/mh/images/icons/jira.svg" class="skill__icon" alt="Jira">
           <p class="">Jira</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/jquery.svg" class="skill__icon" alt="jQuery">
+          <img src="/wp-content/themes/mh/images/icons/jquery.svg" class="skill__icon" alt="jQuery">
           <p class="">jQuery</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/jquery-mobile.svg" class="skill__icon" alt="jQuery Mobile">
+          <img src="/wp-content/themes/mh/images/icons/jquery-mobile.svg" class="skill__icon" alt="jQuery Mobile">
           <p class="">jQuery Mobile</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/json.svg" class="skill__icon" alt="JSON">
+          <img src="/wp-content/themes/mh/images/icons/json.svg" class="skill__icon" alt="JSON">
           <p class="">JSON</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/kraken.svg" class="skill__icon" alt="Kraken">
+          <img src="/wp-content/themes/mh/images/icons/kraken.svg" class="skill__icon" alt="Kraken">
           <p class="">Kraken</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/markdown.svg" class="skill__icon" alt="Markdown">
+          <img src="/wp-content/themes/mh/images/icons/markdown.svg" class="skill__icon" alt="Markdown">
           <p class="">Markdown</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/meanio.svg" class="skill__icon" alt="Mean">
+          <img src="/wp-content/themes/mh/images/icons/meanio.svg" class="skill__icon" alt="Mean">
           <p class="">Mean.io</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/mongodb.svg" class="skill__icon" alt="MongoDB">
+          <img src="/wp-content/themes/mh/images/icons/mongodb.svg" class="skill__icon" alt="MongoDB">
           <p class="">MongoDB</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/mysql.svg" class="skill__icon" alt="MySQL">
+          <img src="/wp-content/themes/mh/images/icons/mysql.svg" class="skill__icon" alt="MySQL">
           <p class="">MySQL</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/nginx.svg" class="skill__icon" alt="Nginx">
+          <img src="/wp-content/themes/mh/images/icons/nginx.svg" class="skill__icon" alt="Nginx">
           <p class="">Nginx</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/nodejs.svg" class="skill__icon" alt="Node">
+          <img src="/wp-content/themes/mh/images/icons/nodejs.svg" class="skill__icon" alt="Node">
           <p class="">Node</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/node-sass.svg" class="skill__icon" alt="Node Sass">
+          <img src="/wp-content/themes/mh/images/icons/node-sass.svg" class="skill__icon" alt="Node Sass">
           <p class="">Node Sass</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/npm.svg" class="skill__icon" alt="Npm">
+          <img src="/wp-content/themes/mh/images/icons/npm.svg" class="skill__icon" alt="Npm">
           <p class="">Npm</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/optimizely.svg" class="skill__icon" alt="Optimizely">
+          <img src="/wp-content/themes/mh/images/icons/optimizely.svg" class="skill__icon" alt="Optimizely">
           <p class="">Optimizely</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/php.svg" class="skill__icon" alt="PHP">
+          <img src="/wp-content/themes/mh/images/icons/php.svg" class="skill__icon" alt="PHP">
           <p class="">PHP</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/pm2.svg" class="skill__icon" alt="PM2">
+          <img src="/wp-content/themes/mh/images/icons/pm2.svg" class="skill__icon" alt="PM2">
           <p class="">PM2</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/postman.svg" class="skill__icon" alt="Postman">
+          <img src="/wp-content/themes/mh/images/icons/postman.svg" class="skill__icon" alt="Postman">
           <p class="">Postman</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/prestashop.svg" class="skill__icon" alt="Prestashop">
+          <img src="/wp-content/themes/mh/images/icons/prestashop.svg" class="skill__icon" alt="Prestashop">
           <p class="">Prestashop</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/python.svg" class="skill__icon" alt="Python">
+          <img src="/wp-content/themes/mh/images/icons/python.svg" class="skill__icon" alt="Python">
           <p class="">Python</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/react.svg" class="skill__icon" alt="React">
+          <img src="/wp-content/themes/mh/images/icons/react.svg" class="skill__icon" alt="React">
           <p class="">React</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/rest.svg" class="skill__icon" alt="Rest">
+          <img src="/wp-content/themes/mh/images/icons/rest.svg" class="skill__icon" alt="Rest">
           <p class="">Rest</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/sails.svg" class="skill__icon" alt="Sails">
+          <img src="/wp-content/themes/mh/images/icons/sails.svg" class="skill__icon" alt="Sails">
           <p class="">Sails</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/sass.svg" class="skill__icon" alt="Sass">
+          <img src="/wp-content/themes/mh/images/icons/sass.svg" class="skill__icon" alt="Sass">
           <p class="">Sass</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/slack.svg" class="skill__icon" alt="Slack">
+          <img src="/wp-content/themes/mh/images/icons/slack.svg" class="skill__icon" alt="Slack">
           <p class="">Slack</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/socket.io.svg" class="skill__icon" alt="Socket.io">
+          <img src="/wp-content/themes/mh/images/icons/socket.io.svg" class="skill__icon" alt="Socket.io">
           <p class="">Socket.io</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/stripe.svg" class="skill__icon" alt="Stripe">
+          <img src="/wp-content/themes/mh/images/icons/stripe.svg" class="skill__icon" alt="Stripe">
           <p class="">Stripe</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/terminal.svg" class="skill__icon" alt="Terminal">
+          <img src="/wp-content/themes/mh/images/icons/terminal.svg" class="skill__icon" alt="Terminal">
           <p class="">Terminal</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/ubuntu.svg" class="skill__icon" alt="Ubuntu">
+          <img src="/wp-content/themes/mh/images/icons/ubuntu.svg" class="skill__icon" alt="Ubuntu">
           <p class="">Ubuntu</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/vagrant.svg" class="skill__icon" alt="Vagrant">
+          <img src="/wp-content/themes/mh/images/icons/vagrant.svg" class="skill__icon" alt="Vagrant">
           <p class="">Vagrant</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/vim.svg" class="skill__icon" alt="Vim">
+          <img src="/wp-content/themes/mh/images/icons/vim.svg" class="skill__icon" alt="Vim">
           <p class="">Vim</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/woocommerce.svg" class="skill__icon" alt="WooCommerce">
+          <img src="/wp-content/themes/mh/images/icons/woocommerce.svg" class="skill__icon" alt="WooCommerce">
           <p class="">WooCommerce</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/wordpress-icon.svg" class="skill__icon" alt="Wordpress">
+          <img src="/wp-content/themes/mh/images/icons/wordpress-icon.svg" class="skill__icon" alt="Wordpress">
           <p class="">Wordpress</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/wpengine.svg" class="skill__icon" alt="WPEngine">
+          <img src="/wp-content/themes/mh/images/icons/wpengine.svg" class="skill__icon" alt="WPEngine">
           <p class="">WPEngine</p>
         </div>
         <div class="col-6 col-sm-3 col-md-2 align-self-center skill">
-          <img src="/wp-content/themes/matt-howell/images/icons/yii.svg" class="skill__icon" alt="Yii">
+          <img src="/wp-content/themes/mh/images/icons/yii.svg" class="skill__icon" alt="Yii">
           <p class="">Yii</p>
         </div>
       </div>
